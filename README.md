@@ -23,3 +23,6 @@ Quick Download link
 ------------------
 
 Here's a quick link to download the program. [Download] dataTracker.
+
+[Official site]:http://datatracker.feeelabs.net
+[Download]:http://datatracker.freelabs.net/downloads/dataTracker.jar
