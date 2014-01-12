@@ -15,6 +15,10 @@ Current Version
 --------------
 v1.0
 
+License
+-------
+Released udner the GNU General Publc License v3.0
+
 Quick Download link
 ------------------
 
