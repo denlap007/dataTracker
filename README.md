@@ -9,7 +9,7 @@ Lappas Dionysis (Dio)
 
 HomePage
 ------
-[Official site]
+Official [site]
 
 Current Version
 --------------
@@ -24,5 +24,5 @@ Quick Download link
 
 Here's a quick link to download the program. [Download] dataTracker.
 
-[Official site]:http://datatracker.feeelabs.net
+[site]:http://datatracker.freelabs.net
 [Download]:http://datatracker.freelabs.net/downloads/dataTracker.jar
