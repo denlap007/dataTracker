@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2014 Dio
+ * Copyright (C) 2013-2014 Dio
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -332,7 +332,7 @@ public class MainWindow extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(13, 21, 0, 0);
         jPanel4.add(jLabel5, gridBagConstraints);
 
-        jComboBox1.setFont(new java.awt.Font("SansSerif", 0, 11)); // NOI18N
+        jComboBox1.setFont(new java.awt.Font("SansSerif", 0, 12)); // NOI18N
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);
@@ -1486,7 +1486,7 @@ public class MainWindow extends javax.swing.JFrame {
 
         @Override
         public void actionPerformed(ActionEvent ae) {
-            String copyright = "<html><b>Copyright (c)</b> 2014, Lappas Dionysis \n";
+            String copyright = "<html><b>Copyright (c)</b> 2013-2014, Lappas Dionysis \n";
             String version = "<html><b>Version:</b> 1.0 \n";
             String description = "<html><b>Description:</b> DataTracker helps you keep track and \nvisualize your tasks and ideas! \n";
             String license = "<html><b>Released</b> under the GNU General Public License v3.0 \n";
