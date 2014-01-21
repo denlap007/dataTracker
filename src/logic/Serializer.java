@@ -88,6 +88,7 @@ public class Serializer {
 
         for (SerNode serNode : serNodes) {
             Node newNode = serNode.getNode();
+            newNode.calcNodeDims(); //re-calculate dims
             List<Node> children = serNode.getChildren();
             Node[] childNodes = new Node[children.size()];
             childNodes = children.toArray(childNodes);
